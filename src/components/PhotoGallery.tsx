@@ -43,6 +43,7 @@ import imagem41 from "@/assets/imagem41.jpg";
 import imagem42 from "@/assets/imagem42.jpg";
 import imagem43 from "@/assets/imagem43.jpg";
 import imagem44 from "@/assets/imagem44.jpg";
+import imagem45 from "@/assets/imagem45.jpg";
 const PhotoGallery = () => {
   // Placeholder data for 20 photos
   const photos = [{
@@ -264,6 +265,11 @@ const PhotoGallery = () => {
     id:44,
     image:imagem44,
     description:"Mais uma no lagoa pq somos lindos"
+  },
+  {
+    id:45,
+    image:imagem45,
+    description:"Quando a gente foi correr com eu quase tendo crise de ansiedade e fiquei MUITO mais calmo com vc <3"
   },
   ];
 
