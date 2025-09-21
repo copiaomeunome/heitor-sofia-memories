@@ -44,6 +44,11 @@ import imagem42 from "@/assets/imagem42.jpg";
 import imagem43 from "@/assets/imagem43.jpg";
 import imagem44 from "@/assets/imagem44.jpg";
 import imagem45 from "@/assets/imagem45.jpg";
+import imagem46 from "@/assets/imagem46.jpg";
+import imagem47 from "@/assets/imagem47.jpg";
+import imagem48 from "@/assets/imagem48.jpg";
+import imagem49 from "@/assets/imagem49.jpg";
+import imagem50 from "@/assets/imagem50.jpg";
 const PhotoGallery = () => {
   // Placeholder data for 20 photos
   const photos = [{
@@ -271,6 +276,32 @@ const PhotoGallery = () => {
     image:imagem45,
     description:"Quando a gente foi correr com eu quase tendo crise de ansiedade e fiquei MUITO mais calmo com vc <3"
   },
+  {
+    id:46,
+    image:imagem46,
+    description:"O dia que você conheceu minha família"
+  },
+  {
+    id:47,
+    image:imagem47,
+    description:"Mais uma desse dia em são bartolomeu"
+  },
+  {
+    id:48,
+    image:imagem48,
+    description:"Esse dia eu fui conhecer a família do seu padrasto no chapéu de palha"
+  },
+  {
+    id:49,
+    image:imagem49,
+    description:"Mais uma pra lembrar que sua vó lembrou de me chamar e eu fiquei mt feliz"
+  },
+  {
+    id:50,
+    image:imagem50,
+    description:"A primeira vez que fomos juntos numa piscina no aniversário do Yuri"
+  },
+  
   ];
 
   return (
